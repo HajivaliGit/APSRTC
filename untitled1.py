@@ -1,0 +1,1 @@
+print("1.Hai All welcome to HINT")
